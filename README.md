@@ -4,5 +4,6 @@ Greedy Algorithm
 ![image](https://user-images.githubusercontent.com/81931782/205960162-85d5c949-4d92-4604-835f-9625b45de872.png)
 The optimized result
 ![image](https://user-images.githubusercontent.com/81931782/205960462-259ae539-2a5d-4332-a23f-d4f05d8abb2a.png)
-![image](https://user-images.githubusercontent.com/81931782/205962135-7d4a1899-b99d-4e07-a6eb-32e8b8cbc0b2.png)
+![image](https://user-images.githubusercontent.com/81931782/205962406-a2847443-6994-4e13-af24-adfd183dc0db.png)
+
 
